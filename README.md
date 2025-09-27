@@ -5,13 +5,6 @@ Este repositorio contiene:
 - Un **dataset limpio** (`euromillones_clean.csv`) generado desde histórico 2004–2025.
 - Un **borrador de post** para LinkedIn (`LinkedIn_Post_ES.md`).
 
-## Cómo ejecutar
-```bash
-pip install -r requirements.txt
-jupyter lab  # o jupyter notebook
-```
-Abre `EuroMillions_ML_Notebook.ipynb` y ejecuta todas las celdas.
-
 ## Estructura de datos
 - `draw_date`: fecha del sorteo
 - `ball1..ball5`: bolas (orden ascendente)
